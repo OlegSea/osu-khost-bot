@@ -1,0 +1,12 @@
+{
+    "admin": [
+        {
+            "userName": "You",
+            "permissionLevel": 2
+        },
+        {
+            "userName": "Your friend",
+            "permissionLevel": 1
+        }
+    ]
+}

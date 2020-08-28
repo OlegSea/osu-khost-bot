@@ -1,0 +1,12 @@
+{
+    "login": "Your Login",
+    "password": "Your IRC Password",
+    "apiKey": "Your API Key",
+	"lobbyName": "Auto Host Rotate",
+	"lobbyPassword": "",
+	"commandPrefix": ".",
+	"teamMode": 0,
+	"winCondition": 0,
+	"afkTimer": 45,
+	"msg_welcome": "Welcome to our lobby!"
+}
