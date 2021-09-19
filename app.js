@@ -189,4 +189,5 @@ process.on("SIGINT", async () => {
 	console.log("Closing lobby and disconnecting...");
 	await lobby.closeLobby();
 	await client.disconnect();
+    process.exit(1)
 });
